@@ -2,7 +2,7 @@
 
 # It's good of you to drop by...
 
-![Profile Pic](/images/profile.jpg)
+![Profile Pic](/profile.jpg)
 
 
 ## A bit about me..
