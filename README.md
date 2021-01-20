@@ -6,7 +6,7 @@
 
 I have had an interest in web and web development for the last 20 years.  During the summer I started to take my learning up a level and self taught myself some PHP and increased my skills in HTML, CSS and SCSS.  Using the skills I learnt I built my wife a website for her business, [Charlie's Gents Barbers](https://www.charliesbrighouse.com), using wordpress, with a fully custom theme.
 
-I currently work as an office coordinator for a small local charity which supportds families with disabled children, and have a strong interest in accessible web applciations.
+I currently work as an office coordinator for a small local charity which supports families with disabled children, and have a strong interest in accessible web applciations.
 
 # Keeping the mind and body healthy.
 
